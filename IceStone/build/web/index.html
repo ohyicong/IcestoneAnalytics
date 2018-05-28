@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html ng-app="indexApp">
+    <head >
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>IceStone Analytics</title>
+
+        <script src="./ANGULARJS/angular.min.js"></script>
+        <script src="./ANGULARJS-CONTROLLER/IndexControllerNg.js"></script>
+
+        <script src="./RANDOMJS/ui-bootstrap-tpls-2.5.0.js"></script>
+        <link href="./CSS-STYLE/bootstrap.min.css" rel="stylesheet">
+        <link href="./CSS-STYLE/IndexLoading.css" rel="stylesheet">
+        <link rel="stylesheet" href="./CSS-STYLE/w3.css">
+        <link rel="stylesheet" href="./CSS-STYLE/raleway.css">
+        <link rel="stylesheet" href="./CSS-STYLE/font-awesome.min.css">
+        
+    </head>
+    <body class="w3-light-grey" ng-controller="indexController">
+        <br><br><br><br>
+        <center>
+        <div class="w3-container">
+            <div class="w3-card-4 w3-white w3-center" style="width:350px; height:500px  ">
+            <br><br>
+            
+                <header><i><b>ICESTONE ANALYTICS</b></i></header><br>
+            
+                    <center><div><img src="./IMG/npg-logo.png" alt="logo" /></div></center>
+                    <br>
+                    <center><button class="btn-default " style="width: 110px; height: 40px;" ng-show="!showLoading" ng-click="changeLoading()">Connect</button></center>
+                    <center><button class="btn-default " style="width: 110px; height: 40px;" ng-show="showLoading">Connect</button></center>
+                    <br>
+                    <center><div class="loader" ng-style={display:loaderStyle}></div></center>
+           
+            </div>
+        </div>
+        </center>
+    </body>
+</html>

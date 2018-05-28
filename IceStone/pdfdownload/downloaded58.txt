@@ -1,0 +1,166 @@
+Export XMLImport XML
+Explanatory Notes
+FORM 
+6 
+(Electronic Format)
+SECURITIES AND FUTURES ACT (CAP. 289) 
+SECURITIES AND FUTURES (DISCLOSURE OF INTERESTS) 
+REGULATIONS 2012 
+  
+NOTIFICATION FORM FOR TRUSTEE-MANAGER OR  
+RESPONSIBLE PERSON IN RESPECT OF CHANGES IN ITS 
+INTEREST IN SECURITIES
+Please read the explanatory notes carefully before completing this notification form. 1.
+This form is for a Trustee-Manager or Responsible Person to give notice under section 137R(1)(a) or 
+137ZC(1)(a) of the Securities and Futures Act (Cap. 289) (the "SFA").
+2.
+3. This electronic Form 6 and a separate Form C, containing the particulars and contact details of the Trustee-
+Manager/Responsible Person must be completed by a person authorised by the Trustee-Manager/
+Responsible Person to do so. The person so authorised should maintain records of information furnished to 
+him by theTrustee-Manager/Responsible Person.
+4. This form and Form C, are to be completed electronically. The Trustee-Manager/Responsible Person will 
+attach both forms to the prescribed SGXNet announcement template for dissemination as required under 
+section 137R(1) or 137ZC(1) of the SFA, as the case may be. While Form C will be attached to the 
+announcement template, it will not be disseminated to the public and is made available only to the Monetary 
+Authority of Singapore (the "Authority").
+5.
+6. All applicable parts of the notification form must be completed. If there is insufficient space for your answers, 
+please include attachment(s) by clicking on the paper clip icon on the bottom left-hand corner or  in item 10 
+of Part II. The total file size for all attachment(s) should not exceed 1MB. 
+7. Except for item 4 of Part II, please select only one option from the relevant check boxes.
+8. Please note that submission of any false or misleading information is an offence under Part VII of the SFA.
+9. The term "Listed Issuer" as used in this form refers to  - 
+10. For further instructions and guidance on how to complete this notification form, please refer to section 9 of 
+the User Guide on Electronic Notification Forms which can be accessed at the Authority's Internet website at 
+http://www.mas.gov.sg (under "Regulations and Financial Stability", "Regulations, Guidance and Licensing", 
+"Securities, Futures and Fund Management", "Forms", "Disclosure of Interests"). 
+(a) a registered business trust (as defined in the Business Trusts Act (Cap. 31A)) any or all of the units in 
+which are listed for quotation on the official list of a securities exchange; 
+(b) a recognised business trust any or all of the units in which are listed for quotation on the official list of 
+a securities exchange, such listing being a primary listing; or
+(c) a collective investment scheme that is a trust, that invests primarily in real estate and real estate-
+related assets specified by the Authority in the Code on Collective Investment Schemes, and any or 
+all the units in which are listed for quotation on the official list of a securities exchange, such listing 
+being a primary listing ("Real Estate Investment Trust").
+A single form may be used by a Trustee-Manager/Responsible Person for more than one transaction 
+resulting in notifiable obligations which occur within the same notifiable period (i.e. within one business day 
+of the earliest transaction). There must be no netting-off of two or more notifiable transactions even if they 
+occur within the same day. 
+Page 2 of 6FORM 6/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+Name of Listed Issuer:1.
+Frasers Logistics & Industrial Trust ("FLT") (See Part II Item 12 below)
+2. Type of Listed Issuer:
+  Registered/Recognised Business Trust
+  Real Estate Investment Trust✔
+Name of Trustee-Manager/Responsible Person:3.
+Frasers Logistics & Industrial Asset Management Pte. Ltd. ("FLIAM") 
+4. Is the Trustee-Manager/Responsible Person also a substantial unitholder of the Listed Issuer?
+  Yes
+  No✔
+Part I - General
+Page 3 of 6FORM 6/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+Part II - Transaction Details
+Date of acquisition of or change in interest:
+Transaction      
+1.
+23-May-2018
+2.
+Explanation (if the date of becoming aware is different from the date of acquisition of, or change 
+in, interest):
+4.
+Number of units, rights, options, warrants and/or principal amount of debentures acquired or 
+disposed of by Trustee-Manager/Responsible Person:
+Not applicable.
+6. Amount of consideration paid or received by Trustee-Manager/Responsible Person (excluding 
+brokerage and stamp duties):
+5.
+Type of securities which are the subject of the transaction (more than one option may be chosen):
+3.
+Date on which the Trustee-Manager/Responsible Person became aware of the acquisition of, or 
+change in, interest        (if different from item 1 above, please specify the date):
+23-May-2018
+Receipt of provisional allotment of 68,271 New Units pursuant to the Preferential Offering (each as defined below)
+  Ordinary voting units
+  Other type of units (excluding ordinary voting units)
+  Rights/Options/Warrants over units✔
+  Debentures
+  Rights/Options over debentures
+  Others (please specify):
+A
+Page 4 of 6FORM 6/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+  Securities via market transaction
+  Securities via off-market transaction (e.g. married deals)
+  Securities via physical settlement of derivatives or other securities
+  Securities pursuant to rights issue✔
+  Securities via a placement
+  Securities following conversion/exercise of rights, options, warrants or other convertibles
+  Securities as part of management, acquisition and/or divestment fees paid by the Listed Issuer
+  Securities via market transaction
+  Securities via off-market transaction (e.g. married deals)
+  Acceptance of take-over offer for Listed Issuer
+  Corporate action by Listed Issuer (please specify):
+  Others (please specify):
+Disposal of:
+Other circumstances:
+Acquisition of:
+7. Circumstance giving rise to the interest or change in interest:
+8. Quantum of interests in securities held by Trustee-Manager/Responsible Person before and after 
+the transaction. Please complete relevant table(s) below (for example, Table 1 should be completed if 
+the change relates to ordinary voting units of the Listed Issuer; Table 4 should be completed if the change 
+relates to debentures):
+Table 3. Change in respect of rights/options/warrants over units of the Listed Issuer
+Immediately before the transaction Direct Interest Deemed Interest Total
+No. of rights/options/warrants held:
+0 0 0
+No. (if known) of units underlying the rights/
+options/warrants:
+0 0 0
+Immediately after the transaction Direct Interest Deemed Interest Total
+No. of rights/options/warrants held:
+68,271 0 68,271
+No. (if known) of units underlying the rights/
+options/warrants:
+68,271 0 68,271
+Page 5 of 6FORM 6/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+9. Circumstances giving rise to deemed interests (if the interest is such):  
+[You may attach a chart(s) in item 10 to illustrate how the Trustee-Manager/Responsible Person's 
+deemed interest, as set out in item 8 tables 1 to 6, arises]
+Not applicable.
+Attachments (if any):10.
+(The total file size for all attachment(s) should not exceed 1MB.)
+11.
+SGXNet announcement reference of the first notification which was announced on SGXNet 
+(the "Initial Announcement"):
+(a)
+Date of the Initial Announcement:(b)
+(c) 15-digit transaction reference number of the relevant transaction in the Form 6 which was 
+attached in the Initial Announcement:
+If this is a replacement of an earlier notification, please provide:
+Remarks (if any):12.
+Frasers Logistics & Industrial Trust is a real estate investment trust. The manager of FLT is FLIAM (the "REIT 
+Manager").  
+ 
+The REIT Manager had, on 23 May 2018, launched a pro rata and non-renounceable preferential offering of 
+152,153,437 new units in FLT ("New Units") on the basis of one New Unit for every 10 existing units in FLT (fractions 
+of a New Unit to be disregarded) held as at 5.00 p.m. on Friday, 18 May 2018 (the "Preferential Offering"). 
+ 
+Sponsorship Statement: 
+DBS Bank Ltd. and Citigroup Global Markets Singapore Pte. Ltd. are the joint financial advisers, global coordinators 
+and issue managers for the initial public offering of units in FLT (the "Offering"). DBS Bank Ltd., Citigroup Global 
+Markets Singapore Pte. Ltd., Morgan Stanley Asia (Singapore) Pte., Oversea-Chinese Banking Corporation Limited 
+and United Overseas Bank Limited are the joint bookrunners and underwriters for the Offering (collectively, the 
+"Joint Bookrunners") . The Joint Bookrunners for the Offering assume no responsibility for the contents of this 
+announcement.
+Transaction Reference Number (auto-generated):
+9 4 8 4 4 5 2 4 3 3 5 3 7 4 2
+Page 6 of 6FORM 6/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+Item 13 is to be completed by an individual submitting this notification form on behalf of the Trustee-Manager/
+Responsible Person.
+13. Particulars of Individual completing this notification form:
+(a) Name of Individual:
+Cher Mui Sim Susanna
+(b) Designation:
+Chief Financial Officer
+(c) Name of entity:
+Frasers Logistics & Industrial Asset Management Pte. Ltd.
+

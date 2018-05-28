@@ -1,0 +1,179 @@
+Export XML
+All applicable parts of the notification form must be completed. If there is insufficient space for your 
+answers, please include attachment(s) by clicking on the paper clip icon on the bottom left-hand corner or 
+in item 3 of Part II or item 10 of Part III. The total file size for all attachment(s) should not exceed 1MB.
+6.
+Please note that submission of any false or misleading information is an offence under Part VII of the SFA. 
+In this form, the term “Listed Issuer” refers to – 
+a company incorporated in Singapore any or all of the shares in which are listed for quotation on the 
+official list of a securities exchange; 
+(b)
+a registered business trust (as defined in the Business Trusts Act (Cap. 31A)) any or all of the units in 
+which are listed for quotation on the official list of a securities exchange; 
+(c)
+a corporation (not being a company incorporated in Singapore, or a collective investment scheme 
+constituted as a corporation) any or all of the shares in which are listed for quotation on the official list 
+of a securities exchange, such listing being a primary listing; 
+Except for item 4 of Part III, please select only one option from the relevant check boxes.7.
+8.
+9.
+(a)
+10. For further instructions and guidance on how to complete this notification form, please refer to section 6 of 
+the User Guide on Electronic Notification Forms which can be accessed at the Authority’s Internet website 
+at http://www.mas.gov.sg (under “Regulations and Financial Stability”, "Regulations, Guidance and 
+Licensing", "Securities, Futures and Fund Management", "Forms", "Disclosure of Interests").  
+a recognised business trust any or all of the units in which are listed for quotation on the official list of a 
+securities exchange, such listing being a primary listing; or 
+(e) a collective investment scheme that is a trust, that invests primarily in real estate and real estate-
+related assets specified by the Authority in the Code on Collective Investment Schemes, and any or all 
+the units in which are listed for quotation on the official list of a securities exchange, such listing being a 
+primary listing (“Real Estate Investment Trust”). 
+(d)
+Please read the explanatory notes carefully before completing this notification form. 1.
+This form is for a Director/Chief Executive Officer (“CEO”) to give notice of his interests in the securities of 
+the Listed Issuer under section 133, 137N or 137Y of the Securities and Futures Act (Cap. 289) (the 
+“SFA”). Please note that the requirement to disclose interests in participatory interests applies only to a 
+director and where the Listed Issuer is a Singapore-incorporated company. 
+2.
+This electronic Form 1 and a separate Form C, containing the particulars and contact details of the 
+Director/CEO, must be completed by the Director/CEO or a person duly authorised by him to do so. The 
+person so authorised should maintain records of information furnished to him by the Director/CEO. 
+3.
+This form and Form C, are to be completed electronically and sent to the Listed Issuer via an electronic 
+medium such as an e-mail attachment. The Listed Issuer will attach both forms to the prescribed SGXNet 
+announcement template for dissemination as required under section 137G(1), 137R(1) or 137ZC(1) of the 
+SFA, as the case may be. While Form C will be attached to the announcement template, it will not be 
+disseminated to the public and is made available only to the Monetary Authority of Singapore (the 
+"Authority"). 
+4.
+A single form may be used by a Director/CEO for more than one transaction resulting in notifiable 
+obligations which occur within the same notifiable period (i.e. within two business days of/of becoming 
+aware of, the earliest transaction). There must be no netting-off of two or more notifiable transactions even 
+if they occur within the same day. 
+5.
+Explanatory Notes
+SECURITIES AND FUTURES ACT (CAP. 289) 
+SECURITIES AND FUTURES (DISCLOSURE OF INTERESTS) 
+REGULATIONS 2012 
+  
+NOTIFICATION FORM FOR DIRECTOR/CHIEF EXECUTIVE OFFICER 
+IN RESPECT OF INTERESTS IN SECURITIES
+FORM 
+1 
+(Electronic Format)
+Page 2 of 6FORM 1/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+Name of Listed Issuer:1.
+CITIC Envirotech Ltd
+2. Type of Listed Issuer:
+  Company/Corporation✔
+  Registered/Recognised Business Trust
+  Real Estate Investment Trust
+Name of Director/CEO:3.
+Dr Lin Yucheng
+4. Is the Director/CEO also a substantial shareholder/unitholder of the Listed Issuer?
+  Yes
+  No✔
+Is the Director/CEO notifying in respect of his interests in securities of, or made available by, 
+the Listed Issuer at the time of his appointment? 
+(Please proceed to complete Part II)
+(Please proceed to complete Part III)
+5.
+  Yes
+  No✔
+6. Date of notification to Listed Issuer:
+24-May-2018
+Part I - General
+Page 3 of 6FORM 1/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+Part III - For an incumbent Director/CEO giving notice of an acquisition of, or  
+a change in his interest in, securities of or made available by the Listed Issuer
+Transaction       
+Date of acquisition of or change in interest:1.
+24-May-2018
+2. Date on which Director/CEO became aware of the acquisition of, or change in, interest  
+(if different from item 1 above, please specify the date):
+24-May-2018
+Type of securities which are the subject of the transaction (more than one option may be 
+chosen):
+4.
+  Ordinary voting shares/units of Listed Issuer✔
+  Other types of shares/units (excluding ordinary voting shares/units) of Listed Issuer
+  Rights/Options/Warrants over shares/units of Listed Issuer
+  Debentures of Listed Issuer
+  Rights/Options over debentures of Listed Issuer
+Contracts over shares of the Listed Issuer which Director/CEO is a party to, or under which he is 
+entitled to a benefit, being contracts under which any person has a right to call for or to make 
+delivery of shares in the Listed Issuer
+  Participatory interests made available by Listed Issuer
+  Others (please specify):
+Explanation (if the date of becoming aware is different from the date of acquisition of, or change 
+in, interest):
+3.
+5. Number of shares, units, rights, options, warrants, participatory interests and/or principal 
+amount/value of debentures or contracts acquired or disposed of by Director/CEO:
+1,225,600
+6. Amount of consideration paid or received by Director/CEO (excluding brokerage and stamp 
+duties):
+$823,320
+A
+Page 4 of 6FORM 1/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+Acquisition of:
+7. Circumstance giving rise to the interest or change in interest:
+Disposal of:
+Other circumstances :
+  Securities via market transaction✔
+  Securities via off-market transaction (e.g. married deals)
+  Securities via physical settlement of derivatives or other securities
+  Securities pursuant to rights issue
+  Securities via a placement
+  Securities following conversion/exercise of rights, options, warrants or other convertibles
+  Securities via market transaction
+  Securities via off-market transaction (e.g. married deals)
+  Acceptance of employee share options/share awards
+  Vesting of share awards
+  Exercise of employee share options
+  Acceptance of take-over offer for Listed Issuer
+  Corporate action by Listed Issuer (please specify):
+  Others (please specify):
+8. Quantum of interests in securities held by Director/CEO before and after the transaction. 
+Please complete relevant table(s) below (for example, Table 1 should be completed if the change relates to 
+ordinary voting shares of the Listed Issuer; Table 4 should be completed if the change relates to debentures):
+  
+Table 1. Change in respect of ordinary voting shares/units of Listed Issuer 
+Immediately before the transaction Direct Interest Deemed Interest Total
+No. of ordinary voting shares/units held:
+6,000,000 85,681,334 91,681,334
+As a percentage of total no. of ordinary 
+voting shares/units: 
+0.25 3.61 3.86
+Immediately after the transaction Direct Interest Deemed Interest Total
+No. of ordinary voting shares/units held:
+7,225,600 85,681,334 92,906,934
+Page 5 of 6FORM 1/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+As a percentage of total no. of ordinary 
+voting shares/units:
+0.3 3.61 3.91
+9. Circumstances giving rise to deemed interests (if the interest is such):  
+[You may attach a chart(s) in item 10 to illustrate how the Director/CEO's deemed interest, as 
+set out in item 8 tables 1 to 8, arises]
+Dr Lin Yucheng is deemed interested in the shares held by Green Resources Limited
+Attachments (if any):10.
+11.
+SGXNet announcement reference of the first notification which was announced on SGXNet 
+(the "Initial Announcement"):
+(a)
+If this is a replacement of an earlier notification, please provide:
+Date of the Initial Announcement:(b)
+(c) 15-digit transaction reference number of the relevant transaction in the Form 1 which was 
+attached in the Initial Announcement:
+Remarks (if any):12.
+(The total file size for all attachment(s) should not exceed 1MB.)
+Transaction Reference Number (auto-generated):
+6 6 0 5 9 3 2 4 3 4 4 3 4 6 2
+Item 13 is to be completed by an individual submitting this notification form on behalf of the Director/CEO. 
+13. Particulars of Individual submitting this notification form to the Listed Issuer:
+(a) Name of Individual:
+Dr Lin Yucheng
+Page 6 of 6FORM 1/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+Designation (if applicable):(b)
+(c) Name of entity (if applicable):
+

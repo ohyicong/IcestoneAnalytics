@@ -1,0 +1,64 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=9" /><link href="_layouts/1033/styles/SGX.COW.MasterPage/SGX_COW_MasterPage/SGX_Stocks.css" rel="stylesheet" type="text/css" />
+    <!-- Custom Corporate announcement -->
+    <link href="../_layouts/1033/styles/SGX.COW.MasterPage/SGX_COW_MasterPage/SGX_Master.css" rel="stylesheet" type="text/css" />
+    <!--Warrants-->
+    <link href="_layouts/1033/styles/SGX.COW.MasterPage/SGX_COW_MasterPage/SGX_Warrants.css" rel="stylesheet" type="text/css" />
+    <!--CorpInfo-->
+    <link href="_layouts/1033/styles/SGX.COW.MasterPage/SGX_COW_MasterPage/SGX_CorpInfo.css" rel="stylesheet" type="text/css" />
+    <!--IPOAllinOne-->
+    <link href="../_layouts/1033/styles/SGX.COW.MasterPage/SGX_COW_MasterPage/SGX_IPO_Page.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" type="image/x-icon" href="/image/favicon.ico" /><title>
+
+</title></head>
+<body>
+    <form name="form1" method="post" action="./Apps?A=COW_CorpAnnouncement_Content&amp;B=AnnouncementLast3Months&amp;F=XWZGR90NG7974M3F&amp;H=bd566cc88422ca29f5428d045011575ad1a6122c0864f4a7772c1f364a3c4e8c&amp;fileId=_GDL_FORM+3_Yeow+Cheng+Khim+and+Chin+Kon+Yuen.pdf" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwMjIzNDYzODJkZHaxf7CrmQ3/CEuAoolNPUR6VnAb" />
+
+    <div id="divControls">
+<style type="text/css">
+    td.corpAnnTitle
+        {
+            background-color: #c1d72e;
+            color: White;
+        }
+        
+        td.dim-serialb
+        {
+            width: 445px;
+        }
+        td.dim-serial
+        {
+            width: 10px;
+        }
+        
+        td.dim-two
+        {
+            width: 400px;
+        }
+        td.dim-description
+        {
+            width: 182px;
+        }
+        td.dim-footnote
+        {
+            width: 150px;
+        }
+        td.dim-border
+        {
+            border: 1px solid #cccccc;
+        }
+        #s4-ribbonrow
+        {
+            display:none !important;
+        }
+</style>
+<div style="width:670px">
+    
+</div>
+</div>
+    </form>
+</body>
+</html>

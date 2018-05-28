@@ -1,0 +1,200 @@
+Export XML
+All applicable parts of the notification form must be completed. If there is insufficient space for your 
+answers, please include attachment(s) by clicking on the paper clip icon on the bottom left-hand corner or 
+in item 3 of Part II or item 10 of Part III. The total file size for all attachment(s) should not exceed 1MB.
+6.
+Please note that submission of any false or misleading information is an offence under Part VII of the SFA. 
+In this form, the term “Listed Issuer” refers to – 
+a company incorporated in Singapore any or all of the shares in which are listed for quotation on the 
+official list of a securities exchange; 
+(b)
+a registered business trust (as defined in the Business Trusts Act (Cap. 31A)) any or all of the units in 
+which are listed for quotation on the official list of a securities exchange; 
+(c)
+a corporation (not being a company incorporated in Singapore, or a collective investment scheme 
+constituted as a corporation) any or all of the shares in which are listed for quotation on the official list 
+of a securities exchange, such listing being a primary listing; 
+Except for item 4 of Part III, please select only one option from the relevant check boxes.7.
+8.
+9.
+(a)
+10. For further instructions and guidance on how to complete this notification form, please refer to section 6 of 
+the User Guide on Electronic Notification Forms which can be accessed at the Authority’s Internet website 
+at http://www.mas.gov.sg (under “Regulations and Financial Stability”, "Regulations, Guidance and 
+Licensing", "Securities, Futures and Fund Management", "Forms", "Disclosure of Interests").  
+a recognised business trust any or all of the units in which are listed for quotation on the official list of a 
+securities exchange, such listing being a primary listing; or 
+(e) a collective investment scheme that is a trust, that invests primarily in real estate and real estate-
+related assets specified by the Authority in the Code on Collective Investment Schemes, and any or all 
+the units in which are listed for quotation on the official list of a securities exchange, such listing being a 
+primary listing (“Real Estate Investment Trust”). 
+(d)
+Please read the explanatory notes carefully before completing this notification form. 1.
+This form is for a Director/Chief Executive Officer (“CEO”) to give notice of his interests in the securities of 
+the Listed Issuer under section 133, 137N or 137Y of the Securities and Futures Act (Cap. 289) (the 
+“SFA”). Please note that the requirement to disclose interests in participatory interests applies only to a 
+director and where the Listed Issuer is a Singapore-incorporated company. 
+2.
+This electronic Form 1 and a separate Form C, containing the particulars and contact details of the 
+Director/CEO, must be completed by the Director/CEO or a person duly authorised by him to do so. The 
+person so authorised should maintain records of information furnished to him by the Director/CEO. 
+3.
+This form and Form C, are to be completed electronically and sent to the Listed Issuer via an electronic 
+medium such as an e-mail attachment. The Listed Issuer will attach both forms to the prescribed SGXNet 
+announcement template for dissemination as required under section 137G(1), 137R(1) or 137ZC(1) of the 
+SFA, as the case may be. While Form C will be attached to the announcement template, it will not be 
+disseminated to the public and is made available only to the Monetary Authority of Singapore (the 
+"Authority"). 
+4.
+A single form may be used by a Director/CEO for more than one transaction resulting in notifiable 
+obligations which occur within the same notifiable period (i.e. within two business days of/of becoming 
+aware of, the earliest transaction). There must be no netting-off of two or more notifiable transactions even 
+if they occur within the same day. 
+5.
+Explanatory Notes
+SECURITIES AND FUTURES ACT (CAP. 289) 
+SECURITIES AND FUTURES (DISCLOSURE OF INTERESTS) 
+REGULATIONS 2012 
+  
+NOTIFICATION FORM FOR DIRECTOR/CHIEF EXECUTIVE OFFICER 
+IN RESPECT OF INTERESTS IN SECURITIES
+FORM 
+1 
+(Electronic Format)
+Page 2 of 5FORM 1/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+Name of Listed Issuer:1.
+Trek 2000 International Ltd
+2. Type of Listed Issuer:
+  Company/Corporation✔
+  Registered/Recognised Business Trust
+  Real Estate Investment Trust
+Name of Director/CEO:3.
+Kwek Swee Heng
+4. Is the Director/CEO also a substantial shareholder/unitholder of the Listed Issuer?
+  Yes
+  No✔
+Is the Director/CEO notifying in respect of his interests in securities of, or made available by, 
+the Listed Issuer at the time of his appointment? 
+(Please proceed to complete Part II)
+(Please proceed to complete Part III)
+5.
+  Yes✔
+  No
+6. Date of notification to Listed Issuer:
+24-May-2018
+Part I - General
+Page 3 of 5FORM 1/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+Part II - For a new Director/CEO giving notice of his interests  
+at the date of appointment
+Date of appointment as a Director/CEO of the Listed Issuer:1.
+24-May-2018
+2. Details of interest in securities:
+Quantum of Interests
+  
+  
+Description of securities Direct 
+Interest
+Deemed 
+Interest Total
+Circumstances giving 
+rise to deemed 
+interests 
+  
+ [You may attach a chart in 
+item 3 to show how your 
+deemed interests arise.]
+(a) Ordinary voting 
+shares/units of Listed 
+Issuer
+No. of ordinary voting 
+shares/units held :
+0 301,000 301,000 The shares is held by 
+the spouse. 
+ 
+As a percentage of 
+total no. of ordinary 
+voting shares/units:
+0 0.09 0.09
+(b) Other shares/units 
+(excluding ordinary 
+voting shares/units) of 
+Listed Issuer
+No. of shares/units 
+held:
+(c) Rights/Options/
+Warrants over shares/
+units of Listed Issuer
+No. of rights/options/
+warrants held:
+No. (if known) of 
+shares/units 
+underlying the rights/
+options/warrants:
+(d) Debentures of Listed 
+Issuer Principal amount:
+No. (if known) of 
+shares/units 
+underlying 
+convertible 
+debentures:
+(e) Rights/Options over 
+debentures of Listed 
+Issuer
+No. of rights/options 
+held:
+Principal amount (if 
+known) of 
+debentures 
+underlying the rights/
+options:
+Page 4 of 5FORM 1/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+(f) Contracts over 
+shares of the Listed 
+Issuer which the 
+Director/CEO is a party 
+to, or under which he is 
+entitled to a benefit, 
+being contracts under 
+which any person has a 
+right to call for or to 
+make delivery of shares 
+in the Listed Issuer
+Principal value of 
+contracts held:
+No. (if known) of 
+shares/units 
+underlying the 
+contracts:
+(g)  Participatory 
+interests made available 
+by Listed Issuer
+No. of participatory 
+interests held:
+(h) Others (please 
+specify)
+5. Remarks (if any):
+4. If this is a replacement of an earlier notification, please provide:
+(c) 15-digit transaction reference number of the relevant transaction in the Form 1 which was 
+attached in the Initial Announcement:
+3.
+Date of the Initial Announcement:(b)
+Attachments (if any):
+SGXNet announcement reference of the first notification which was announced on SGXNet 
+(the "Initial Announcement"):
+(a)
+(The total file size for all attachment(s) should not exceed 1MB.)
+The percentages of total no. of ordinary voting shares are computed based on 322,887,925 issued share capital 
+(excluding treasury shares) of Trek 2000 International Ltd.
+Name of Individual:
+6. Particulars of Individual submitting this notification form to the Listed Issuer:
+(a)
+Kwek Swee Heng
+(b) Designation (if applicable):
+Independent Non-Executive Director
+Item 6 is to be completed by an individual submitting this notification form on behalf of the Director/CEO
+Page 5 of 5FORM 1/[ Version 2.0 ]/Effective Date [ 21 March 2014 ]
+Transaction Reference Number (auto-generated):
+(c) Name of entity (if applicable):
+Trek 2000 International Ltd
+3 4 1 4 1 4 3 4 2 3 3 9 8 6 1
+
